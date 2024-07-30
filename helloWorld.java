@@ -4,6 +4,6 @@ class Hello{
 
 	 System.out.println("Hello World from Neha");
 	 System.out.println("Hello World from Amruta");
-
+     
  }
 }
